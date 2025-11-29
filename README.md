@@ -24,7 +24,7 @@ Features:
 
 ---
 
-### Stage 4 — Reproduction Version
+### Stage 4 — Reproduction Version       Video DEMO:(https://youtu.be/u8WzoeSfNUM)
 Files:
 - envs/env_interface_4.py
 - antagent/AntAgent3.py
@@ -38,8 +38,7 @@ Features:
 
 ---
 
-### Stage 5 — Communication and Advanced Memory
-Video DEMO https://youtu.be/GKlCQJ8m5g4"
+### Stage 5 — Communication and Advanced Memory   Video DEMO: (https://youtu.be/GKlCQJ8m5g4)
 Files:
 - envs/env_interface_5.py
 - antagent/AntAgent4.py
