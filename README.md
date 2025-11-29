@@ -1,5 +1,5 @@
 # AntWorldSim — Multi-Stage Ant Colony Simulation
-<img width="877" height="961" alt="image" src="https://github.com/user-attachments/assets/5258192b-f016-4329-b9fb-0fb51aeb758a" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/5258192b-f016-4329-b9fb-0fb51aeb758a" />
 
 This repository contains three evolutionary versions of the AntWorld simulation.
 Each stage upgrades ant intelligence, memory, communication, and return-to-food behavior.
